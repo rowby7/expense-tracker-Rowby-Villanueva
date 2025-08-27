@@ -114,3 +114,63 @@ Building a full-stack expense tracking application over 13 weeks, progressing fr
 - Machine learning categorization
 - Multi-user support
 - Business expense features
+
+## MVP Features Checklist
+
+### Expense Management
+- [ ] Add new expense
+  - Amount (required)
+  - Category (required)
+  - Description (optional)
+  - Date (default: today)
+- [ ] Edit existing expense
+- [ ] Delete expense
+- [ ] View expense list
+
+### Categories
+- [ ] Default categories (Food, Transport, Entertainment, etc.)
+- [ ] Custom category creation
+- [ ] Category colors/icons
+- [ ] Edit/Delete categories
+
+### Analytics
+- [ ] Total spending display
+- [ ] Spending by category (pie chart)
+- [ ] Monthly trend (line graph)
+- [ ] Current month summary
+
+### UI/UX
+- [ ] Responsive design (mobile-first)
+- [ ] Dark/Light theme
+- [ ] Loading states
+- [ ] Error messages
+- [ ] Empty states
+
+## Technical Requirements
+
+### Frontend
+- [ ] React 18+ with functional components
+- [ ] TypeScript with strict mode
+- [ ] Tailwind CSS for styling
+- [ ] React Router for navigation
+- [ ] Form validation
+- [ ] Proper error boundaries
+
+### Code Quality
+- [ ] ESLint configuration
+- [ ] Prettier formatting
+- [ ] Husky pre-commit hooks
+- [ ] Conventional commits
+- [ ] 80%+ test coverage
+
+### Performance
+- [ ] Lazy loading for routes
+- [ ] Optimized images
+- [ ] Memoization where needed
+- [ ] Bundle size < 200KB
+
+### Accessibility
+- [ ] WCAG 2.1 AA compliance
+- [ ] Keyboard navigation
+- [ ] Screen reader support
+- [ ] Proper ARIA labels
