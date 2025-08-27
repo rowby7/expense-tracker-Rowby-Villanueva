@@ -1,0 +1,23 @@
+{
+  "name": "expense-tracker-rowby-villanueva",
+  "version": "1.0.0",
+  "description": "Personal finance tracking application built with React, TypeScript, and AWS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowby7/expense-tracker-Rowby-Villanueva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowby7/expense-tracker-Rowby-Villanueva/issues"
+  },
+  "homepage": "https://github.com/rowby7/expense-tracker-Rowby-Villanueva#readme"
+}
