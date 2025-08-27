@@ -70,9 +70,44 @@ Set up development environment and plan component architecture for expense track
 - Feedback on TypeScript configuration
 - Suggestions for state management approach
 
+## My Learning Commitment
+
+### I commit to:
+1. **Daily Progress**
+   - Code at least 1 hour per day
+   - Update standup log daily
+   - Push commits regularly
+
+2. **Professional Practices**
+   - Write clean, documented code
+   - Create meaningful commit messages
+   - Keep README current
+   - Document decisions in ADRs
+
+3. **Learning Focus**
+   - Understand before implementing
+   - Use Copilot responsibly
+   - Ask for help when stuck > 30 min
+   - Share knowledge with peers
+
+4. **Quality Standards**
+   - Test my code
+   - Handle edge cases
+   - Consider accessibility
+   - Optimize performance
+
+### My Personal Goals:
+1. [Add your specific goal]
+2. [Add another goal]
+3. [Add learning objective]
+
+Signed: [Your Name]
+Date: [Today's Date]
+
 ---
 
 ## Standup History
 - Week 1: Environment setup and planning *(current)*
 - Week 2: [To be added]
 - Week 3: [To be added]
+
